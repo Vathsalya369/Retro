@@ -197,7 +197,7 @@ a:hover{
 }
 
 .card{
-    width:400px;
+    width:350px;
     border-radius: 8px;
     position: relative;
     filter: drop-shadow(2px 2px 20px black);
